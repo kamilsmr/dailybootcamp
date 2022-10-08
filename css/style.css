@@ -3,5 +3,13 @@ h1  {
 }
 
 li {
-    color:green;
+    color:rgb(219,83,201)
+}
+
+p{
+    color: aqua;
+}
+
+h4 {
+    color: rgb(33, 144, 75);
 }
