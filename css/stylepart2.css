@@ -1,5 +1,8 @@
 body {
-    background-color: gray;
+
+ 
+    background: url(https://cdn.pixabay.com/photo/2020/03/15/04/27/sky-4932427_960_720.jpg);
+    background-repeat: no-repeat;
 }
 
 div{
