@@ -7,13 +7,14 @@ h1 {
     margin: auto;
 }
 
-td{
+td {
     
     height: 300px;
     width: 150px;
+    border: 6px solid white;
 }
 
-#one{
+#one {
     background-color: #DAD2D8;
 
 }
